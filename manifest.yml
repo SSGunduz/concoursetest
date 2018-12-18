@@ -1,0 +1,6 @@
+---
+applications:
+  - name: concourse-test
+    memory: 1G
+    buildpack: java_buildpack
+    instances: 1
